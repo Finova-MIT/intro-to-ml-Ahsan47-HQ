@@ -1,2 +1,5 @@
 print("Hello world")
 print("this is vs code")
+print("vs code is trash")
+print('wow')
+print("shit")
